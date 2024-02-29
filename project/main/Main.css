@@ -1,0 +1,16 @@
+.up-footer{
+    background-color: rgba(0, 0, 0, 0.126);
+}
+.foot{
+    background-color: rgba(0, 0, 0, 0.851);
+}
+.up-footer p {
+    margin: 0;
+    padding: 0;
+}
+.buton{
+    background-color: black;
+}
+.buton:hover{
+    background-color: rgb(34, 39, 39);
+}
